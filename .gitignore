@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/.kotlin/
+/build
+/app/
+/gradle/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+!.gitignore
+!README.md
+!ArtisanDev-Teleprompter-v1.0.apk
